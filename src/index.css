@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body {
+    background: salmon;
+}
+.container{
+    background: rgb(223 226 231);
+}
